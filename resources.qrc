@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon_Pen.png</file>
+        <file>icon_Eraser.png</file>
+        <file>icon_ColorPalette.png</file>
+        <file>icon_Reverse.png</file>
+        <file>icon_AddFrame.png</file>
+        <file>icon_DeleteFrame.png</file>
+        <file>icon_Preview.png</file>
+        <file>Icon_fill.png</file>
+    </qresource>
+</RCC>
